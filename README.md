@@ -12,4 +12,7 @@ The pieces are represented by characters. Uppercase characters represent white p
 - Q: Queen
 - K: King
 - P: Pawn
+
+
+
 The coordinates of the pieces are set as (x,y) with x indicating the column number and y indicating the row number. When you input the coordinates, it has to be the coordinate of x followed by a space followed by the coordinate of y. 
