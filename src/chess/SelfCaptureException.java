@@ -4,7 +4,7 @@ package chess;
  * This is the exception class for when the user try to replace a piece with a
  * piece that has the same colour of that piece.
  *
- * @author Ayumu Saito (A00436125)
+ * @author Ayumu Saito 
  */
 public class SelfCaptureException extends ChessException {
 
