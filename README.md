@@ -1,4 +1,4 @@
-# SimpleOnTerminal
+# SimpleChessOnTerminal
 
 A chess game program that can be played on terminal.
 
